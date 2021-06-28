@@ -24,6 +24,7 @@ Eğer State=Start ise çalışır ve 2sn içinde 0 ile 100 arasında üretebildi
     <img src="imgs\master1.JPG"/>
 </p>
 <br>
+<p>Çalıştığı saniye aralıklarını ekrana yansıtır.</p>
 <p align="center">
     <img src="imgs\master2.JPG"/>
 </p>
@@ -37,7 +38,7 @@ Slave de tıpkı Master uygulaması gibi çalıştırıldığı anda önce "proc
     <img src="imgs\slave1.JPG"/>
 </p>
 <p>
-Bu durumda ilk olarak index uygulaması açıldığı zaman  master ı start yaptığımız için slave uygulaması çalışmayacak ve uyarı verecektir.</p><br>
+Bu durumda ilk olarak index uygulaması açıldığında master ı start yapmıştık, dolayısı ile slave uygulaması çalışmayacak ve uyarı verecektir.</p><br>
 <p align="center">
     <img src="imgs\slave2.JPG"/>
 </p>
@@ -54,5 +55,5 @@ Ve ardından slave uygulaması sorunsuz çalışıp "sensor_data.txt de ki tüm 
     <img src="imgs\slave4.JPG"/>
 </p>
 <br>
-<p>Slave ve Master klasörleri uygulamanın console halidir, asıl kullanılabilir halleri SlaveForm ve MasterForm klasörlerinde mevcuttur</p>
+<p style="color:#f00000;">Slave ve Master klasörleri uygulamanın console halidir, asıl kullanılabilir halleri SlaveForm ve MasterForm klasörlerinde mevcuttur</p>
 <br>
