@@ -55,5 +55,5 @@ Ve ardından slave uygulaması sorunsuz çalışıp "sensor_data.txt de ki tüm 
     <img src="imgs\slave4.JPG"/>
 </p>
 <br>
-<p style="color:#f00000;">Slave ve Master klasörleri uygulamanın console halidir, asıl kullanılabilir halleri SlaveForm ve MasterForm klasörlerinde mevcuttur</p>
+<div style="color:#f00000;">Slave ve Master klasörleri uygulamanın console halidir, asıl kullanılabilir halleri SlaveForm ve MasterForm klasörlerinde mevcuttur</div>
 <br>
