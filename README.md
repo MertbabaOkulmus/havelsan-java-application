@@ -1,7 +1,7 @@
 <h1> Proje temel anlamda üç uygulamadan oluşmaktadır index MasterForm ve SlaveForm </h1>
-<a href="index"><h3>
+<h3>
 Index Uygulaması
-</h3></a>
+</h3>
 <p>Index uygulamasında hangi uygulamanın çalışacağı belirlenir uygulamanın seçili olup olmama durumuna göre   
 process_state.txt dosyasına uygulama durumları(start/stop) aktarılır</p>
 <p align="center">
@@ -10,11 +10,9 @@ process_state.txt dosyasına uygulama durumları(start/stop) aktarılır</p>
 <p align="center">
     <img src="imgs\index2.JPG"/>
 </p>
-<a href="#MasterForm">
 <h3>
 MasterForm Uygulaması
 </h3>
-</a>
 <p>
 Master uygulaması çalıştırıldığı anda önce "process_state.txt" den çalışma izni olup olmadığını kontrol eder. <br>
 Eğer çalıma izni yok ise yani State=Stop ise uyarı verir.<br> 
@@ -55,5 +53,6 @@ Ve ardından slave uygulaması sorunsuz çalışıp "sensor_data.txt de ki tüm 
 <p align="center">
     <img src="imgs\slave4.JPG"/>
 </p>
-
+<br>
+<p>Slave ve Master klasörleri uygulamanın console halidir, asıl kullanılabilir halleri SlaveForm ve MasterForm klasörlerinde mevcuttur</p>
 <br>
