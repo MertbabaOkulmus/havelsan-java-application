@@ -16,8 +16,7 @@ MasterForm Uygulaması
 <p>
 Master uygulaması çalıştırıldığı anda önce "process_state.txt" den çalışma izni olup olmadığını kontrol eder. <br>
 Eğer çalıma izni yok ise yani State=Stop ise uyarı verir.<br> 
-Eğer State=Start ise çalışır ve 2sn içinde 0 ile 100 arasında üretebildiği kadar random sayı üretip "sensor_data.txt" nin içine yazdırır.<br>
-Çalıştığı saniye aralıklarını ekrana yansıtır.
+Eğer State=Start ise çalışır ve 2sn içinde 0 ile 100 arasında üretebildiği kadar random sayı üretip "sensor_data.txt" nin içine yazdırır.
 </p>
 <br>
 <p align="center">
@@ -55,5 +54,5 @@ Ve ardından slave uygulaması sorunsuz çalışıp "sensor_data.txt de ki tüm 
     <img src="imgs\slave4.JPG"/>
 </p>
 <br>
-<div style="color:#f00000;">Slave ve Master klasörleri uygulamanın console halidir, asıl kullanılabilir halleri SlaveForm ve MasterForm klasörlerinde mevcuttur</div>
+<font color="red">Slave ve Master klasörleri uygulamanın console halidir, asıl kullanılabilir halleri SlaveForm ve MasterForm klasörlerinde mevcuttur</font>
 <br>
