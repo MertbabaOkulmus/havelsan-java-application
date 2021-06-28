@@ -5,5 +5,5 @@ Index Uygulaması
 <p>index uygulamasında hangi uygulamanın çalışacağı belirlenir uygulamanın seçili olup olmama durumuna göre   
 process_state.txt dosyasına uygulama durumları(start/stop) aktarılır</p>
 <p align="center">
-   ![INDEX](./imgs/index1.JPG)
+    <img src="imgs\index1.JPG"/>
 </p>
